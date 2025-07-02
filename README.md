@@ -1,3 +1,5 @@
-#LinuxKernel
-Linux Kernel Concepts
+# LinuxKernel
+
+Learning and experimenting with Linux Kernel development.
+
 
